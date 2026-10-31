@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Makhana / Lotus Leaf Icon Emblem -->
+  <g transform="translate(10, 10)">
+    <!-- Outer Organic Shield / Circle -->
+    <circle cx="30" cy="30" r="28" fill="#1B4332"/>
+    <circle cx="30" cy="30" r="25" fill="#2D6A4F" stroke="#74C69D" stroke-width="1.5"/>
+    
+    <!-- Stylized Roasted Makhana / Lotus Puff -->
+    <!-- Curved leaves framing the puff -->
+    <path d="M18 36C18 36 15 26 23 21C26 25 24 33 24 33" stroke="#D8F3DC" stroke-width="2" stroke-linecap="round"/>
+    <path d="M42 36C42 36 45 26 37 21C34 25 36 33 36 33" stroke="#D8F3DC" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Center Crunchy Makhana Silhouette -->
+    <path d="M25 32C23 29 24 25 28 23C30 21 34 22 36 24C39 25 40 28 38 31C41 33 40 37 36 38C34 40 29 40 26 38C23 37 22 34 25 32Z" fill="#FFFFFF"/>
+    <!-- Subtle golden roast indentations -->
+    <circle cx="28" cy="29" r="1.5" fill="#E9C46A"/>
+    <circle cx="34" cy="28" r="1.2" fill="#E9C46A"/>
+    <circle cx="31" cy="34" r="1.5" fill="#E9C46A"/>
+
+    <!-- Small fresh leaf sprout on top -->
+    <path d="M30 19C30 15 34 14 36 14C36 17 33 19 30 19Z" fill="#74C69D"/>
+    <path d="M30 19C29 16 26 15 25 16C25 18 28 20 30 19Z" fill="#52B788"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="82" y="38" font-family="'Plus Jakarta Sans', 'Montserrat', 'Segoe UI', sans-serif" font-size="24" font-weight="800" fill="#1B4332" letter-spacing="1.5">MAKHANA</text>
+  <text x="216" y="38" font-family="'Plus Jakarta Sans', 'Montserrat', 'Segoe UI', sans-serif" font-size="24" font-weight="800" fill="#2D6A4F" letter-spacing="1.5">MUNCH</text>
+  
+  <text x="83" y="55" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#52B788" letter-spacing="2.8">CRUNCH HEALTHY. LIVE HAPPY!</text>
+
+  <!-- Premium Quality Sub-badge line -->
+  <line x1="83" y1="62" x2="295" y2="62" stroke="#D8F3DC" stroke-width="1.2"/>
+</svg>
